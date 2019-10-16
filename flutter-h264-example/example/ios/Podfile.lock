@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - p2p_camera_plugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - p2p_camera_plugin (from `.symlinks/plugins/p2p_camera_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  p2p_camera_plugin:
+    :path: ".symlinks/plugins/p2p_camera_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  p2p_camera_plugin: 3c991307fa2b78fb60fff909c931810477ad44be
+
+PODFILE CHECKSUM: 10ae9c18d12c9ffc2275c9a159a3b1e281990db0
+
+COCOAPODS: 1.8.0
